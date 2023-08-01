@@ -19,8 +19,4 @@ def handler(event, context, statusCode=200, body=Any):
         body: result
     }
 
-# api
-#
-# 1. pycharm dev environment
-# 2. vs code prod environment
-# 3. notepad ++
+
