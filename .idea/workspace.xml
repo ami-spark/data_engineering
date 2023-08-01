@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="581de694-d54a-452b-a4f9-c15214726338" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/Dockerfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/aws-core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/business_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/imoji-template-code-block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/lambda_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/pseudo_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_engineering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_Remote__blueprint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/spark_partition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/client.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/client.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-new-cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-new-cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-quality.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-quality.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-quality_pd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/data-quality_pd.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/file.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/file.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/revenue-company.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/revenue-company.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/stagging-data-lake-S3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GDS-ADLS-Retail-Project/csv/stagging-data-lake-S3.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/spark_partition_yarn" source="train_delta" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/spark_partition_yarn" value="train_delta" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a17648d5-7b52-47e6-9a07-40aac2af7ef7" />
+        <option name="url" value="https://github.com/ami-spark/data_engineering.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../AppData/Local/Temp/ETL-deltaU-nt-it-led- job.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SgF0A2LMoMNvFPbKdXPEOgQfJA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/amit/USD_CAR_CARS__ON_big_table_output_schema/Top_50_US_Tech_Companies_2022_2023.json&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amit Paul\data_engineering\spark_partition_yarn\.github\workflows" />
+      <recent name="C:\Users\Amit Paul\data_engineering\pythonProject2023\csv" />
+      <recent name="C:\Users\Amit Paul\data_engineering\pythonProject2023" />
+      <recent name="C:\Users\Amit Paul\data_engineering\sql_view\csv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="AWS Lambda.[Remote] blueprint (1)">
+    <configuration name="Dockerfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.github/workflows" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.github/workflows/Dockerfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aws-core" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.github/workflows" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.github/workflows/aws-core.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="container" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.github/workflows" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.github/workflows/container.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[Remote] blueprint (1)" type="aws.lambda" factoryName="Remote" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:ami" />
+      <option name="regionId" value="us-east-1" />
+      <option name="functionName" value="blueprint" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[Remote] myFunctionEdu" type="aws.lambda" factoryName="Remote" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:cere" />
+      <option name="regionId" value="us-east-1" />
+      <option name="functionName" value="myFunctionEdu" />
+      <option name="input" value="C:\amit\USD_CAR_CARS__ON_big_table_output_schema\Top_50_US_Tech_Companies_2022_2023.json" />
+      <option name="inputIsFile" value="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AWS Lambda.[Remote] blueprint (1)" />
+        <item itemvalue="Python.aws-core" />
+        <item itemvalue="Python.container" />
+        <item itemvalue="Python.Dockerfile" />
+        <item itemvalue="AWS Lambda.[Remote] myFunctionEdu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="581de694-d54a-452b-a4f9-c15214726338" name="Changes" comment="" />
+      <created>1689560096529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689560096529</updated>
+      <workItem from="1690000408473" duration="1995000" />
+    </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1690215668627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690215668627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done">
+      <created>1690309426464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690309426464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done">
+      <created>1690919219811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690919219811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="train_delta" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GDS" />
+      <path value="$PROJECT_DIR$/ami-spark-data_engineering" />
+      <path value="$PROJECT_DIR$/pythonProject2023" />
+      <path value="$PROJECT_DIR$/Python_Project_2023" />
+      <path value="$PROJECT_DIR$/spark_partition_yarn28-2021" />
+      <path value="$PROJECT_DIR$/Python_Project_2021" />
+    </ignored-roots>
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+  </component>
+</project>
