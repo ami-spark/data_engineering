@@ -74,7 +74,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "aws.experiments",
+    "settings.editor.selected.configurable": "tasks.servers",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -228,8 +228,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690992381099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
-    <servers />
+    <task id="LOCAL-00007" summary="Done">
+      <created>1690992510978</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690992510978</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="ami-spark" />
+        <option name="repoName" value="delta_databricks" />
+      </GitHub>
+    </servers>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
