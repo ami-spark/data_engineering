@@ -5,11 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Recently Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="581de694-d54a-452b-a4f9-c15214726338" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/business_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/business_logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="581de694-d54a-452b-a4f9-c15214726338" name="Changes" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +74,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "aws.lambda",
+    "settings.editor.selected.configurable": "aws.experiments",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -90,7 +86,7 @@
       <recent name="C:\Users\Amit Paul\data_engineering\sql_view\csv" />
     </key>
   </component>
-  <component name="RunManager" selected="AWS Lambda.[Remote] myFunctionEdu">
+  <component name="RunManager" selected="AWS Lambda.[Remote] blueprint">
     <configuration name="Dockerfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_engineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="AWS Lambda.[Remote] myFunctionEdu" />
         <item itemvalue="AWS Lambda.[Remote] blueprint (1)" />
         <item itemvalue="Python.aws-core" />
         <item itemvalue="Python.container" />
         <item itemvalue="Python.Dockerfile" />
-        <item itemvalue="AWS Lambda.[Remote] myFunctionEdu" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690921150695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done">
+      <created>1690992381099</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690992381099</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
