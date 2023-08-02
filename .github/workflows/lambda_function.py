@@ -1,4 +1,5 @@
-from boto.rds import event
+import boto3
+import os
 from debugpy._vendored.pydevd._pydevd_bundle.pydevd_command_line_handling import handler
 from jupyter_server.terminal import initialize
 from pyspark.sql import context

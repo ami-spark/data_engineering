@@ -11,7 +11,8 @@ def do_some_logic(data):
     # Global variables used to store static data
 
     config = 0
-
+    # FILE_NAME = shipping_data.csv
+    # INPUT_BUCKET_NAME = stepfunctionssample - distributedmapcsv - inputbucket - chjpevc1afmp
     # Do something with config object
     return data
 
