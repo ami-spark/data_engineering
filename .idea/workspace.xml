@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="581de694-d54a-452b-a4f9-c15214726338" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_view/data/schema/aws/a4b/roomstatechange/AWSEvent.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_view/data/schema/aws/a4b/roomstatechange/AWSEvent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_view/data/schema/aws/a4b/roomstatechange/code-schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/sql_view/data/schema/aws/a4b/roomstatechange/code-schema.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
         <entry key="$PROJECT_DIR$/spark_partition_yarn" value="train_delta" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sql_view" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -69,20 +66,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/amit/USD_CAR_CARS__ON_big_table_output_schema/USD_CAR_CARS__ON_big_table_output_schema.csv",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "tasks.servers",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Amit Paul\data_engineering\spark_partition_yarn\.github\workflows" />
@@ -91,15 +88,7 @@
       <recent name="C:\Users\Amit Paul\data_engineering\sql_view\csv" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="configurationTypes">
-      <set>
-        <option value="ShConfigurationType" />
-        <option value="aws.lambda" />
-      </set>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.spark_partition">
+  <component name="RunManager" selected="AWS Lambda.[Remote] blueprint">
     <configuration name="Dockerfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_engineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +152,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="[Remote] blueprint (1)" type="aws.lambda" factoryName="Remote" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:ami" />
+      <option name="regionId" value="us-east-1" />
+      <option name="functionName" value="blueprint" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="[Remote] myFunctionEdu" type="aws.lambda" factoryName="Remote" temporary="true" nameIsGenerated="true">
       <option name="credentialProviderId" value="profile:cere" />
       <option name="regionId" value="us-east-1" />
@@ -174,6 +171,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="AWS Lambda.[Remote] myFunctionEdu" />
+        <item itemvalue="AWS Lambda.[Remote] blueprint (1)" />
         <item itemvalue="Python.aws-core" />
         <item itemvalue="Python.container" />
         <item itemvalue="Python.Dockerfile" />
@@ -239,14 +237,7 @@
       <option name="project" value="LOCAL" />
       <updated>1690992510978</updated>
     </task>
-    <task id="LOCAL-00008" summary="Done">
-      <created>1691042402880</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1691042402880</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers>
       <GitHub url="https://github.com">
         <option name="repoAuthor" value="ami-spark" />

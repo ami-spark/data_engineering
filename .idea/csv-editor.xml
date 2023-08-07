@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\Amit Paul\AppData\Local\Temp\shipping_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Amit Paul\Desktop\parquet-Top_50_US_Tech_Companies_2022_2023.parquet\USD_CAR_CARS__ON_big_table_output_schema\USD_CAR_CARS__ON_big_table_output_schema\USD_CAR_CARS__ON_big_table_output_schema.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\spark\spark-3.2.1-bin-hadoop3.2\Project1\generate.csv">
           <value>
             <Attribute>

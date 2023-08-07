@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="[Remote] blueprint" type="aws.lambda" factoryName="Remote" singleton="false" nameIsGenerated="true">
-    <option name="credentialProviderId" value="profile:cere" />
+    <option name="credentialProviderId" value="profile:ami" />
     <option name="regionId" value="us-east-1" />
     <option name="functionName" value="blueprint" />
     <option name="input" value="{&#10;  &quot;jobId&quot;: &quot;38fd08ce-5f5e-434c-8997-6bba5e3f5a74&quot;&#10;}" />
