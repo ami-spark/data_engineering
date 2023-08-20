@@ -1,6 +1,6 @@
+# import aws_sdk
 import aws
 import boto3
-# import aws_sdk
 import os
 
 from statsmodels.stats.libqsturng.make_tbls import success

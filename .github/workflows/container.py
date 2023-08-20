@@ -7,9 +7,7 @@ import business_logic
 
 initialize(webapp="", root_dir="", connection_url="", settings="")
 
-
 # 4 required positional arguments: 'webapp', 'root_dir', 'connection_url', and 'settings'
-
 
 def main():
     while True:

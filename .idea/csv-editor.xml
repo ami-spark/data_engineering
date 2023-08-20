@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\Amit Paul\AppData\Local\Temp\USD_CAR_CARS__ON_big_table_output_schema.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Users\Amit Paul\AppData\Local\Temp\shipping_data.csv">
           <value>
             <Attribute>
@@ -32,6 +39,13 @@
           </value>
         </entry>
         <entry key="\GDS-ADLS-Retail-Project\csv\client.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\GDS-ADLS-Retail-Project\csv\data-new-cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -143,56 +157,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\sql_view\data\ETL-pipeline.csv">
+        <entry key="\sql-view-delta-nacl\data\data-lake -input-attributes-mapping-schema-source.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\sql_view\data\adls-gds-delta.csv">
+        <entry key="\sql-view-delta-nacl\data\generate-model.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\sql_view\data\generate.csv">
+        <entry key="\sql-view-delta-nacl\data\landing-path-input-folder-crawling.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\sql_view\data\partner.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sql_view\data\print.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sql_view\data\resource.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sql_view\data\template.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="&#9;" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sql_view\data\workspace-dataset-delta-upsert.csv">
+        <entry key="\sql-view-delta-nacl\data\workspace-dataset-delta-upsert.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

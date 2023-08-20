@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GDS-ADLS-Retail-Project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spark_partition_yarn" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/sql_view" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql-view-delta-nacl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql_view" vcs="" />
   </component>
 </project>
